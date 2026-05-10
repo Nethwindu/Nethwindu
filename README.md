@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f35,100:58a6ff&height=160&text=NETHWINDU&fontSize=60&fontColor=58a6ff&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=Cybersecurity%20%7C%20Builder%20%2B%20Breaker&descAlign=50&descAlignY=80&descSize=14&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:1a1f35,100:58a6ff&height=180&section=header&text=NETHWINDU&fontSize=60&fontColor=58a6ff&fontAlign=50&fontAlignY=45&animation=twinkling&desc=Cybersecurity%20%7C%20Builder%20%2B%20Breaker&descAlign=50&descAlignY=70&descSize=15&descColor=8b949e&reversal=true" width="100%"/>
 
 <br>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:58a6ff,50:1a1f35,100:0d1117&height=100&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a1f35,60:0a1628,100:0d1117&height=120&section=footer&animation=twinkling" width="100%"/>
 
 `📍 Building · Breaking · Learning` &nbsp;·&nbsp; `📬 Open to internships & CTF collabs`
 
