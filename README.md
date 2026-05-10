@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=140&section=header&text=NETHWINDU&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%"/>
 
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergrad+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Offense-informed+%E2%80%94+I+break+things+to+understand+them.;Builder+of+systems.+Breaker+of+assumptions.;CTF+player.+IoT+hacker.+Network+tinkerer.)](https://git.io/typing-svg)
 
 <br>
