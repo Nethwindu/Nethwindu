@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ███╗   ██╗███████╗████████╗██╗  ██╗██╗    ██╗██╗███╗   ██╗██████╗ ██╗   ██╗
- ████╗  ██║██╔════╝╚══██╔══╝██║  ██║██║    ██║██║████╗  ██║██╔══██╗██║   ██║
- ██╔██╗ ██║█████╗     ██║   ███████║██║ █╗ ██║██║██╔██╗ ██║██║  ██║██║   ██║
- ██║╚██╗██║██╔══╝     ██║   ██╔══██║██║███╗██║██║██║╚██╗██║██║  ██║██║   ██║
- ██║ ╚████║███████╗   ██║   ██║  ██║╚███╔███╔╝██║██║ ╚████║██████╔╝╚██████╔╝
- ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=120&section=header&text=NETHWINDU&fontSize=50&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Undergrad+%40+SLIIT;Offense-Informed+Defender;I+break+things+to+understand+them.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Undergrad+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Offense-informed+%E2%80%94+I+break+things+to+understand+them.;Builder+of+systems.+Breaker+of+assumptions.;CTF+player.+IoT+hacker.+Network+tinkerer.)](https://git.io/typing-svg)
 
 <br>
 
@@ -27,8 +20,8 @@
 └─$ whoami
 
   Role    →  BSc IT (Cybersecurity) · CGPA 3.58 · Sri Lanka 🇱🇰
-  Stack   →  Kali | Python | Java | Arduino | ESP32
   Mode    →  Offense-informed defense — break it first, patch it better.
+  Stack   →  Kali | Python | Java | Arduino | ESP32 | Metasploit
 ```
 
 ---
@@ -79,7 +72,7 @@
 | 🔴 | **MitM Traffic Interception** | Intercepted unencrypted flows on local Wi-Fi — exposed insecure config risks |
 | 🔴 | **USB Debug Exploitation** | Exposed ADB interface on Android IoT device → Metasploit → privileged access |
 
-> `🟢 build` &nbsp; `🔴 break`
+> `🟢 build` &nbsp;·&nbsp; `🔴 break`
 
 ---
 
@@ -87,21 +80,27 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethwindu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethwindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethwindu&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethwindu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethwindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nethwindu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 <br>
 
-```
- ██████╗██╗   ██╗██████╗ ██████╗ ███████╗███╗   ██╗████████╗██╗  ██╗
-██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██║  ██║
-██║     ██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║   ███████║
-██║     ██║   ██║██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║   ██║   ██╔══██║
-╚██████╗╚██████╔╝██║  ██║██║  ██║███████╗██║ ╚████║   ██║   ██║  ██║
- ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=nethwindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 `📍 Building · Breaking · Learning` &nbsp;·&nbsp; `📬 Open to internships & CTF collabs`
 
