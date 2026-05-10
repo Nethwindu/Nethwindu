@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=140&section=header&text=NETHWINDU&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling&desc=Cybersecurity%20%7C%20Builder%20%2B%20Breaker&descAlign=50&descAlignY=75&descSize=15&descColor=c9d1d9" width="100%"/>
 
-[![Glitch Name](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=52&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=80&lines=NETHWINDU)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=N%24TH%5EI%23DU+%3C%2Fglitch%3E+loading...;N3THW1NDU+%7C%7C+NULL+POINTER+%40+0x58a6ff;%5BNETHWINDU%5D+%3E+root%40sliit+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergrad+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Offense-informed+%E2%80%94+I+break+things+to+understand+them.;Builder+of+systems.+Breaker+of+assumptions.;CTF+player.+IoT+hacker.+Network+tinkerer.)](https://git.io/typing-svg)
 
 <br>
 
@@ -91,5 +89,15 @@
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nethwindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+`📍 Building · Breaking · Learning` &nbsp;·&nbsp; `📬 Open to internships & CTF collabs`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
