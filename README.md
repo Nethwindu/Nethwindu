@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=120&section=header&text=NETHWINDU&fontSize=50&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f35,100:58a6ff&height=160&text=NETHWINDU&fontSize=60&fontColor=58a6ff&fontAlign=50&fontAlignY=55&animation=fadeIn&desc=Cybersecurity%20%7C%20Builder%20%26%20Breaker&descAlign=50&descAlignY=80&descSize=14&descColor=8b949e" width="100%"/>
+
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Cybersecurity+Undergrad+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Offense-informed+%E2%80%94+I+break+things+to+understand+them.;Builder+of+systems.+Breaker+of+assumptions.;CTF+player.+IoT+hacker.+Network+tinkerer.)](https://git.io/typing-svg)
 
@@ -80,10 +82,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nethwindu&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<br>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nethwindu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethwindu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
 
 <br>
@@ -100,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:58a6ff,50:1a1f35,100:0d1117&height=100&animation=fadeIn" width="100%"/>
 
 `📍 Building · Breaking · Learning` &nbsp;·&nbsp; `📬 Open to internships & CTF collabs`
 
