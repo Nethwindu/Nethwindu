@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=140&section=header&text=NETHWINDU&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0096D1,100:00476B&text=NETHWINDU&fontSize=80&reversal=false&fontAlign=50&fontColor=ffffff&fontAlignY=48&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Undergrad+%40+SLIIT+%F0%9F%87%B1%F0%9F%87%B0;Offense-informed+%E2%80%94+I+break+things+to+understand+them.;Builder+of+systems.+Breaker+of+assumptions.;CTF+player.+IoT+hacker.+Network+tinkerer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=15&duration=2000&pause=1300&color=0096D1&center=true&width=435&lines=CYBER+SECURITY+UNDERGRADUATE;Builder+of+Systems+-+Breaker+of+Assumptions)](https://git.io/typing-svg)
 
 <br>
 
@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nethwindugunathilaka04@gmail.com)
 [![ISC2 CC](https://img.shields.io/badge/ISC²%20CC-Certified-%2300A859?style=for-the-badge&logo=isc2&logoColor=white)](https://www.isc2.org/certifications/cc)
 ![Profile Views](https://komarev.com/ghpvc/?username=nethwindu&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+
 
 </div>
 
@@ -19,7 +20,7 @@
 ┌──(nethwindu㉿sliit)-[~]
 └─$ whoami
 
-  Role    →  BSc IT (Cybersecurity) · CGPA 3.58 · Sri Lanka 🇱🇰
+  Role    →  BSc IT (Cybersecurity) · SLIIT · Sri Lanka
   Mode    →  Offense-informed defense — break it first, patch it better.
   Stack   →  Kali | Python | Java | Arduino | ESP32 | Metasploit
 ```
@@ -88,7 +89,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nethwindu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
